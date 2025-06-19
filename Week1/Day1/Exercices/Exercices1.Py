@@ -37,8 +37,8 @@ print("Friend's favorite numbers:", friend_fav_numbers)
 print("Our favorite numbers:", our_fav_numbers)
 
 # 6
-Il n’est pas possible d’ajouter des éléments à un tuple après sa création 
-Nous ne pouvons ni ajouter, ni supprimer, ni modifier les éléments d’un tuple.
+# Il n’est pas possible d’ajouter des éléments à un tuple après sa création 
+# Nous ne pouvons ni ajouter, ni supprimer, ni modifier les éléments d’un tuple.
 
 #7
 basket = ["Banana", "Apples", "Oranges", "Blueberries"]
