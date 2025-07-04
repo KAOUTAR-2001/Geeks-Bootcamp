@@ -1,4 +1,4 @@
-select * from language
+;select * from language
 
 select 
  film.title, 
