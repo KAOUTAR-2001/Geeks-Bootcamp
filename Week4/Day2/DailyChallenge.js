@@ -42,5 +42,4 @@ const gameInfo = [
   gameInfo.forEach(player => {
     totalScore += player.score;
   });
-  console.log("Total Score:", totalScore);
-        
+  console.log("Total Score:", totalScore);    
